@@ -1,0 +1,83 @@
+modificacion en registro de usuarios frontend, usuario hasta 13 digitos y 8 minimo
+modificación en registro de proveedores front end
+modificacion de login front end
+modificacion en frontend mostrar proveedores
+modificacion componente de archivos de proveedor en front end
+styles.css
+backend
+modificacion de savevendors
+modificacion de modelos tanto en back como front
+2 metodos nuevos para validar y borrar proveedor back
+modificar routes back
+registerusuarios.component html y ts
+
+
+
+hacer funcionar los enlaces de empresas en cada proveedor como admin y revisar si es necesario en un usuario nuevo para lectuar
+modificar para que sólo modifique info usuario y usuario lectura
+
+revisar que los proveedores no vean el boton de validar proveedor
+nuevo usuario para ver todos los proveedores sin modificar
+administrador, checar a que pertenece cada proveedor
+una pestaña de videos
+actualizar a 5mb el acta constitutiva(hecho)
+checar lo de los archivos si va p
+
+***Prubas modificar info como administrador
+*** recuerda quitar supter de el programa de proveedores sacmag
+
+
+***Otras cosas hechas
+
+
+
+
+********Aspectos a considerar***************
+Al dar de alta un proveedor, sea a parte Supter
+subir archivos sólo que sea aparte supter
+modificación de archivos
+archivos por año
+subir archivos cada año
+checar el captcha en el sitio real
+pestaña de usuarios a administrador
+pestaña de videos
+recuerda borrar supter en en el front, en registro de usuario y de proveedor
+enviar correo cuando suban la info o cuando haya nuevo proveedor
+checar envio de correos y tal vez
+poner si deseas mandar correo al rechazar archivos, qu el admin también pueda modificar archivos
+
+register.component crear una variable todas
+crear en index.component variable supter
+cambiar envió de correo para supter
+checar los no validos sino influyen al registrar proveedor
+revisar si userAlta aun se necesita esta en saveArchives
+*****cosas hechas 17-10-2022**********
+Guardar proveedor dependiendo supter o grupo sacmag
+**ME QUEDÉ modificando front de registro de usuarios
+revisar back de save login usuarios /*front y back*/
+revisar get vendors hecho
+revisar login por tipo de usuario
+hacer pruebas de sino existe el campo supter en getvendors
+
+*****24/10/2022**me quedé validando validate Vendor info back
+
+*****28/10/2022**me quedé revisando fron de archivos, falta back
+****09/11/2022**
+ME quedé en la actualizacion de cada archivo, y revisar que funcione bien cuando trae archivos de cada año
+quitar todos los console.log
+*****02/12/2022*******
+Revisar que haga bien el login de supter y sacmag revisar los métodos traigan la informacion
+******06/12/2022**********
+checar descarga de archivos
+checar cambio de contraseña
+checar el inicio de sesion en supter y en sacmag, con el mismo proveedor
+al actualizar un archivo que diga que ya no son validos, pero sólo si lo hace el proveedor
+refuse archives checar
+mandar correos cuando se modifica un archivo del proveedor
+
+/**Base de datos revision*/
+cambiar los usuarios con empresa todas
+checar los que tienen supter y agregar campos faltantes
+fecha de ingreso igual
+borrar si tiene en empresa supter
+
