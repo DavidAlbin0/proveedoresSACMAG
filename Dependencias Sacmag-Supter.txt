@@ -1,0 +1,44 @@
+	EN ESTE ARCHIVO SE ENLISTAN LAS DEPENDENCIAS QUE UTILIZAN LAS 
+			APLICACIONES WEB DE LA EMPRESA.
+
+
+---------------------------------SACMAG-----------------------------------
+
+Dependencias de Angular Node.js utilizadas en Proveedores Sacmag:
+
+
+
+"archiver": "^5.3.1",
+ "bcrypt-nodejs": "0.0.3",
+ "body-parser": "^1.20.2",
+ "connect-multiparty": "^2.2.0",
+ "express": "^4.17.2",
+ "jwt-simple": "^0.5.6",
+ "moment": "^2.29.4",
+ "mongoose": "^5.13.14",
+ "nodemailer": "^6.9.1"
+ "nodemon": "^2.0.15"
+
+
+Estas son las dependencias utilizadas a la fecha 28/12/2023 
+para la aplicacion Proveedores Sacmag
+
+---------------------------------SUPTER-----------------------------------
+
+Dependenciad de Angular Node.js utilizadas en Proveedores Supter:
+
+
+
+"archiver": "^5.3.1",
+"bcrypt-nodejs": "0.0.3",
+"body-parser": "^1.19.1",
+"connect-multiparty": "^2.2.0",
+"express": "^4.17.2",
+"jwt-simple": "^0.5.6",
+"moment": "^2.29.1",
+"mongoose": "^5.13.14",
+"nodemailer": "^6.7.2"
+"nodemon": "^2.0.15"
+
+Estas son las dependencias utilizadas a la fecha 28/12/2023 
+para la aplicacion Proveedores Supter
